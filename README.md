@@ -21,6 +21,10 @@ también hacer busquedas y ver el detalle de la transacción
 ## Video Demostrativo
 
 
+https://github.com/HeinerGomez/credibanco/assets/27563731/a094047f-9af0-4a96-8fca-ebb82ebd2bbe
+
+
+
 ## Instalación
 
 - *PASO 1:* Clonar el proyecto y tenerlo de manera local
