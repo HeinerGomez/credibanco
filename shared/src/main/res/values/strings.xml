@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transaction_approved">Transacción aprobada con exito</string>
+    <string name="transaction_annulled">Transacción anulada con exito</string>
+    <string name="transaction_rejected">Transacción Rechazada</string>
+    <string name="unknown_error">Ha ocurrido un error inesperado, intente más tarde.</string>
+</resources>

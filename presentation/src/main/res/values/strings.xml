@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">Listado de Transacciones</string>
+    <string name="empty_list">No se han encontrado transaccciones</string>
+    <string name="without_recipe_id">Sin Número de Recibo</string>
+    <string name="recipe_number">Número de recibo</string>
+    <string name="search_placeholder">Busca transacciones</string>
+    <string name="commerce_code_label">Código de Comercio</string>
+    <string name="terminal_code_label">Código del Terminal</string>
+    <string name="transaction_amount_label">Valor de la Transacción</string>
+    <string name="card_associated_label">Tarjeta Asociada</string>
+    <string name="btn_create_transaction">Crear Transacción</string>
+    <string name="btn_annul_transaction">Anular Transacción</string>
+
+    <string name="invalid_form_create_transaction">Formulario invalido, por favor revise los campos</string>
+</resources>
